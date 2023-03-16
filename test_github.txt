@@ -1,0 +1,23 @@
+Reinforcement Learning for Molecular Design Guided by Quantum Mechanics
+https://arxiv.org/pdf/2002.07717.pdf
+
+Molecular de-novo design through deep reinforcement learning
+https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x
+
+Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning
+https://www.nature.com/articles/s42256-021-00403-1#Sec11
+
+Exploration in deep reinforcement learning: A survey
+https://www.sciencedirect.com/science/article/pii/S1566253522000288
+
+Advances of machine learning in molecular modeling and simulation
+https://www.sciencedirect.com/science/article/pii/S2211339818300832
+
+Optimization of Molecules via Deep Reinforcement Learning
+https://link.springer.com/content/pdf/10.1038/s41598-019-47148-x.pdf
+
+NEVAE: A Deep Generative Model for Molecular Graphs
+https://dl.acm.org/doi/pdf/10.5555/3455716.3455830
+
+Improving Multimodal Interactive Agents with Reinforcement Learning from Human Feedback
+https://arxiv.org/pdf/2211.11602.pdf
